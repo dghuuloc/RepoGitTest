@@ -7,3 +7,5 @@ green
 blue
 john
 michael
+yellow
+white
