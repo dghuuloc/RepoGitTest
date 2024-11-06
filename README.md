@@ -4,4 +4,3 @@
 
 red
 green
-blue
