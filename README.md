@@ -2,4 +2,5 @@
 ---
 ## This is text changed by local user in main branch
 
-red
+This is text for git stash line 1
+This is text for git stash line 2
